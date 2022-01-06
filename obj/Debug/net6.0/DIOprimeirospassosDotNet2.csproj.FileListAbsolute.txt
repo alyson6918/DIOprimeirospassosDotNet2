@@ -1,0 +1,15 @@
+C:\Users\alyso\Documents\Workspace\DIO\RepositoriosGit\DIOPrimeirosPassosDotNet2\bin\Debug\net6.0\DIOprimeirospassosDotNet2.exe
+C:\Users\alyso\Documents\Workspace\DIO\RepositoriosGit\DIOPrimeirosPassosDotNet2\bin\Debug\net6.0\DIOprimeirospassosDotNet2.deps.json
+C:\Users\alyso\Documents\Workspace\DIO\RepositoriosGit\DIOPrimeirosPassosDotNet2\bin\Debug\net6.0\DIOprimeirospassosDotNet2.runtimeconfig.json
+C:\Users\alyso\Documents\Workspace\DIO\RepositoriosGit\DIOPrimeirosPassosDotNet2\bin\Debug\net6.0\DIOprimeirospassosDotNet2.dll
+C:\Users\alyso\Documents\Workspace\DIO\RepositoriosGit\DIOPrimeirosPassosDotNet2\bin\Debug\net6.0\ref\DIOprimeirospassosDotNet2.dll
+C:\Users\alyso\Documents\Workspace\DIO\RepositoriosGit\DIOPrimeirosPassosDotNet2\bin\Debug\net6.0\DIOprimeirospassosDotNet2.pdb
+C:\Users\alyso\Documents\Workspace\DIO\RepositoriosGit\DIOPrimeirosPassosDotNet2\obj\Debug\net6.0\DIOprimeirospassosDotNet2.csproj.AssemblyReference.cache
+C:\Users\alyso\Documents\Workspace\DIO\RepositoriosGit\DIOPrimeirosPassosDotNet2\obj\Debug\net6.0\DIOprimeirospassosDotNet2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alyso\Documents\Workspace\DIO\RepositoriosGit\DIOPrimeirosPassosDotNet2\obj\Debug\net6.0\DIOprimeirospassosDotNet2.AssemblyInfoInputs.cache
+C:\Users\alyso\Documents\Workspace\DIO\RepositoriosGit\DIOPrimeirosPassosDotNet2\obj\Debug\net6.0\DIOprimeirospassosDotNet2.AssemblyInfo.cs
+C:\Users\alyso\Documents\Workspace\DIO\RepositoriosGit\DIOPrimeirosPassosDotNet2\obj\Debug\net6.0\DIOprimeirospassosDotNet2.csproj.CoreCompileInputs.cache
+C:\Users\alyso\Documents\Workspace\DIO\RepositoriosGit\DIOPrimeirosPassosDotNet2\obj\Debug\net6.0\DIOprimeirospassosDotNet2.dll
+C:\Users\alyso\Documents\Workspace\DIO\RepositoriosGit\DIOPrimeirosPassosDotNet2\obj\Debug\net6.0\ref\DIOprimeirospassosDotNet2.dll
+C:\Users\alyso\Documents\Workspace\DIO\RepositoriosGit\DIOPrimeirosPassosDotNet2\obj\Debug\net6.0\DIOprimeirospassosDotNet2.pdb
+C:\Users\alyso\Documents\Workspace\DIO\RepositoriosGit\DIOPrimeirosPassosDotNet2\obj\Debug\net6.0\DIOprimeirospassosDotNet2.genruntimeconfig.cache
